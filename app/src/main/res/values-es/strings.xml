@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StalkgramPlus</string>
+    <string name="action_settings">Configuración</string>
+    <string name="download_and_parse_progress">Escaneando Sitio Web de Instagram</string>
+    <string name="drawer_images_menu">Imagénes</string>
+    <string name="drawer_videos_menu">Videos</string>
+    <string name="event_error_not_return_data">Objeto no retornó data</string>
+    <string name="main_button_set_as">Establecer</string>
+    <string name="main_edit_paste_the_share_link_here">Pegar el enlace para compartir aquí</string>
+    <string name="main_button_share">Compartir</string>
+    <string name="main_error_downloading_file">Ha ocurrido un error al descargar el archivo: %s</string>
+    <string name="main_error_empty_clipboard">Error: Debe pegar una url válida </string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="app_description">Aplicación para descargar imágenes y videos de Instagram</string>
+</resources>
